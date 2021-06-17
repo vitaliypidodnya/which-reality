@@ -1,0 +1,5 @@
+10020	IGNORE (X-Frame-Options Header Not Set)
+10038	IGNORE (Content Security Policy (CSP) Header Not Set)
+10021	IGNORE (X-Content-Type-Options Header Missing)
+10037	IGNORE (Server Leaks Information via "X-Powered-By" HTTP Response Header Field)
+10036	IGNORE (Server Leaks Version Information via "Server" HTTP Response Header Field)
